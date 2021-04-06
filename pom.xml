@@ -9,6 +9,7 @@
     <modules>
         <module>common</module>
         <module>Service</module>
+        <module>Service-test</module>
     </modules>
     <name>itcolors-blog</name>
     <description>Demo project for Spring Boot</description>
