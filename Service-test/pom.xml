@@ -11,5 +11,11 @@
 
     <artifactId>Service-test</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <artifactId>service_base</artifactId>
+            <groupId>site.xingchi.blog</groupId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
