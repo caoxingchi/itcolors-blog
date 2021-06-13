@@ -13,7 +13,7 @@
 
     <dependencies>
         <dependency>
-            <artifactId>service_base</artifactId>
+            <artifactId>common</artifactId>
             <groupId>site.xingchi.blog</groupId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
